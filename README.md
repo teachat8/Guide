@@ -51,6 +51,8 @@
 
 [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 
+[Android MVP架构的自述](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820112&idx=1&sn=43de333c4c9d274a4c66f4b021d5b2e2&scene=21#wechat_redirect)
+
 <h2 id="dragger2">dragger2</h2>
 
 [dragger2详解](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820566&idx=1&sn=3575d671c7e071541a846f9074c0090a&scene=23&srcid=0630RFaG61HMguYwsS5pjfXg#rd)
@@ -77,6 +79,8 @@
 
 [Material Design中的CoordinatorLayout和Behavior详解](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237142&idx=1&sn=7470950e38945c5afb573e3ce7469bb6&chksm=886399b9bf1410afaf3a688bb3b4e0051ed2cd7aca72b6ca447fd0b0fa5844132364b37a83ba&mpshare=1&scene=23&srcid=1106pl3opF971NuN7EOi2ioY#rd)
 
+[自定义具有Material Design效果的控件](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237671&idx=1&sn=90a04010cd83fcda336990a483a89271&chksm=88639b88bf14129ef3af89059ba75bd332ec988f238fff50bfc25055858347dcd92dc91b13b3&mpshare=1&scene=23&srcid=1111kzCZ7ubF6J6jfAOZpa26#rd)
+
 <h2 id="other">other</h2>
 
 [使用MagicIndicator打造千变万化的ViewPager指示器](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820592&idx=1&sn=48d127c83b66c2d8d7d269112800cef2&scene=23&srcid=0707SUXIR75uC6Fo6iKmYlu5#rd)
@@ -93,7 +97,11 @@
 
 [Android一整套图片解决方案](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820998&idx=1&sn=c9670674dcfb71a24521e898776f234e&scene=1&srcid=09067A68zfcPscJ37MwuYfo5#rd)
 
+[大幅提高Android开发效率之Android项目模板化（上）](http://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483665&idx=1&sn=50f5232d29c9754c75e231fbb1632e85&chksm=ebeafe1edc9d77088f847d811dc7b95b69559c5f3928983924ea5fb6ed9029cf3b570985b541&mpshare=1&scene=23&srcid=1108QHJ4l7ak3RdYyTvoz08I#rd)
+
 [动画知识概览](https://zhuanlan.zhihu.com/p/22395869)
+
+[Android一些你需要知道的布局优化技巧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821434&idx=1&sn=dd404347eb5f953f7a5737a31ae864e8&chksm=80b787a4b7c00eb297a81316483f2fe5b90a598ddb0c18840f758a8b35384872a552e3a57758&mpshare=1&scene=23&srcid=1108HHgnwwkwlESQ9NSUm7im#rd)
 
 <h2 id="GitHub">GitHub</h2>
 
