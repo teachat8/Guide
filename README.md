@@ -1,7 +1,7 @@
 * [RxJava](#RxJava)
 * [Retrofit](#Retrofit)
 * [MVP](#MVP)
-* [dragger2](#dragger2)
+* [Dagger2](#dragger2)
 * [RecyclerView](#RecyclerView)
 * [Material Design](#MaterialDesign)
 * [other](#other)
@@ -45,21 +45,23 @@
 
 <h2 id="MVP">MVP</h2>
 
+[我们为什么要把Dagger2,MVP以及Rxjava引入项目中?](http://www.jianshu.com/p/91c2bb8e6369)
+
 [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
 
 [MVP模式解析实践](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236921&idx=1&sn=4b2826b600a26b1cd3349ac91593b361&mpshare=1&scene=23&srcid=1106VEFIHWPtsw268y5DFQwb#rd)
 
 [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
 
-[Android MVP架构的自述](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820112&idx=1&sn=43de333c4c9d274a4c66f4b021d5b2e2&scene=21#wechat_redirect)
+[Android MVP 架构的自述](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820112&idx=1&sn=43de333c4c9d274a4c66f4b021d5b2e2&scene=21#wechat_redirect)
+
+[浅析如何高效的使用 MVP（MVP 的封装）](http://blog.csdn.net/dantestones/article/details/51445208)
 
 <h2 id="dragger2">dragger2</h2>
 
-[dragger2详解](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820566&idx=1&sn=3575d671c7e071541a846f9074c0090a&scene=23&srcid=0630RFaG61HMguYwsS5pjfXg#rd)
+[dagger2详解](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820566&idx=1&sn=3575d671c7e071541a846f9074c0090a&scene=23&srcid=0630RFaG61HMguYwsS5pjfXg#rd)
 
-[Dagger2这次入门就不用放弃了](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236561&idx=1&sn=e3c22a10d25bf18cdfe4ace224667cea&scene=23&srcid=0729pAFvJQQiOOPYLqN9OtXY#rd)
-
-[快刀斩乱码—— Dagger2没有想象的那么难](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484828&idx=1&sn=a85e10ceb15f270929ae432a63fe93af&chksm=83f8271cb48fae0a752656adab94fc39ce29d0cbbabfa4c59390813860b8a21095c6622add4d&mpshare=1&scene=23&srcid=1102ZYyohuuisy8XxjTVSZgh#rd)
+[快刀斩乱码—— Dagger2没有想象的那么难](http://www.jianshu.com/p/47c7306b2994)
 
 [Dagger2使用解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237441&idx=1&sn=1a3bf5e2dfac49c94aba04bbea5c75a8&chksm=88639b6ebf141278984e906a4e973086f2a79bc433555883419a28c79899caade4a9be1e5184&mpshare=1&scene=23&srcid=1106ANLXTlSvmlkDinWQAsqp#rd)
 
