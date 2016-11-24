@@ -11,7 +11,7 @@
 
 [是时候学习RxJava了](http://gold.xitu.io/entry/5761718880dda4005f6fa9d1)
 
-[给 Android 开发者的 RxJava 详解](http://gank.io/post/56e80c2c677659311bed9841)
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
@@ -57,13 +57,17 @@
 
 [浅析如何高效的使用 MVP（MVP 的封装）](http://blog.csdn.net/dantestones/article/details/51445208)
 
-<h2 id="dragger2">dragger2</h2>
+<h2 id="Dagger2">Dagger2</h2>
 
 [dagger2详解](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820566&idx=1&sn=3575d671c7e071541a846f9074c0090a&scene=23&srcid=0630RFaG61HMguYwsS5pjfXg#rd)
 
-[快刀斩乱码—— Dagger2没有想象的那么难](http://www.jianshu.com/p/47c7306b2994)
+[都是套路——Dagger2没有想象的那么难](http://www.jianshu.com/p/47c7306b2994)
 
 [Dagger2使用解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237441&idx=1&sn=1a3bf5e2dfac49c94aba04bbea5c75a8&chksm=88639b6ebf141278984e906a4e973086f2a79bc433555883419a28c79899caade4a9be1e5184&mpshare=1&scene=23&srcid=1106ANLXTlSvmlkDinWQAsqp#rd)
+
+[Dagger2这次入门就不用放弃了](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236561&idx=1&sn=e3c22a10d25bf18cdfe4ace224667cea&scene=23&srcid=0729pAFvJQQiOOPYLqN9OtXY#rd)
+
+[Android常用开源工具（2）-Dagger2进阶](http://blog.csdn.net/duo2005duo/article/details/50696166)
 
 <h2 id="RecyclerView">RecyclerView</h2>
 
