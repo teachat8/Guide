@@ -19,7 +19,11 @@
 
 [Android Rxjava学习资料有哪些](https://www.zhihu.com/question/40919273)
 
+[关于RxJava最友好的文章](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237807&idx=1&sn=3a39bfec92640459ab8d04b6fc452263&chksm=88639a00bf141316e633939788852781b2063e9404247ce38982a31dba8c55be1f6762d915e5&mpshare=1&scene=23&srcid=1124qp7CS6yxGSQb7DTFBZqb#rd)
+
 <h2 id="Retrofit">Retrofit</h2>
+
+[重识Retrofit](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821482&idx=1&sn=abb9fed83d0e780a38a913de67bde937&chksm=80b787f4b7c00ee2a1091ae5baaf726bb5ba6b7a7435690338785e84ac4a925ae494539f5433&mpshare=1&scene=23&srcid=11241cgroektQIQEkjP8tuQV#rd)
 
 [Retrofit的实现与分析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236203&idx=1&sn=54938620ba067eb3d6224dacb9fcaa2e&scene=23&srcid=0630gcUL3BPofLlgFLcLJUU5#rd)
 
@@ -88,6 +92,8 @@
 [自定义具有Material Design效果的控件](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237671&idx=1&sn=90a04010cd83fcda336990a483a89271&chksm=88639b88bf14129ef3af89059ba75bd332ec988f238fff50bfc25055858347dcd92dc91b13b3&mpshare=1&scene=23&srcid=1111kzCZ7ubF6J6jfAOZpa26#rd)
 
 <h2 id="other">other</h2>
+
+[一些你可能需要的okhttp实现](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821536&idx=1&sn=6795dc239e205286768a593194eed6c6&chksm=80b7873eb7c00e28c3f4b7c2f0bf2fafa219e7d9f136b16071cefbad4a5df167429af4c962b9&mpshare=1&scene=23&srcid=1124M1xXP5MHuOl1jfzmmu0t#rd)
 
 [使用MagicIndicator打造千变万化的ViewPager指示器](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820592&idx=1&sn=48d127c83b66c2d8d7d269112800cef2&scene=23&srcid=0707SUXIR75uC6Fo6iKmYlu5#rd)
 
