@@ -63,6 +63,8 @@
 
 <h2 id="Dagger2">Dagger2</h2>
 
+[从零开始的Android新项目4 - Dagger2篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
+
 [dagger2详解](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820566&idx=1&sn=3575d671c7e071541a846f9074c0090a&scene=23&srcid=0630RFaG61HMguYwsS5pjfXg#rd)
 
 [都是套路——Dagger2没有想象的那么难](http://www.jianshu.com/p/47c7306b2994)
@@ -72,6 +74,8 @@
 [Dagger2这次入门就不用放弃了](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236561&idx=1&sn=e3c22a10d25bf18cdfe4ace224667cea&scene=23&srcid=0729pAFvJQQiOOPYLqN9OtXY#rd)
 
 [Android常用开源工具（2）-Dagger2进阶](http://blog.csdn.net/duo2005duo/article/details/50696166)
+
+[详解 Dagger2 的 @Scope 和 @Subcomponent](http://blog.csdn.net/ziwang_/article/details/53354897)
 
 <h2 id="RecyclerView">RecyclerView</h2>
 
