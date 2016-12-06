@@ -2,6 +2,7 @@
 * [Retrofit](#Retrofit)
 * [MVP](#MVP)
 * [Dagger2](#dagger2)
+* [Glide](#Glide)
 * [RecyclerView](#RecyclerView)
 * [Material Design](#MaterialDesign)
 * [other](#other)
@@ -76,6 +77,10 @@
 [Android常用开源工具（2）-Dagger2进阶](http://blog.csdn.net/duo2005duo/article/details/50696166)
 
 [详解 Dagger2 的 @Scope 和 @Subcomponent](http://blog.csdn.net/ziwang_/article/details/53354897)
+
+<h2 id="Glide">Glide</h2>
+
+[Glide 使用详解](http://blog.csdn.net/shangmingchao/article/details/51125554/)
 
 <h2 id="RecyclerView">RecyclerView</h2>
 
