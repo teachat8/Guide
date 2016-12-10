@@ -22,6 +22,10 @@
 
 [关于RxJava最友好的文章](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237807&idx=1&sn=3a39bfec92640459ab8d04b6fc452263&chksm=88639a00bf141316e633939788852781b2063e9404247ce38982a31dba8c55be1f6762d915e5&mpshare=1&scene=23&srcid=1124qp7CS6yxGSQb7DTFBZqb#rd)
 
+<h3>Rxjava2</h3>
+
+[给初学者的RxJava2.0教程(一)](https://gold.xitu.io/post/5848d96761ff4b0058c9d3dc)
+
 <h2 id="Retrofit">Retrofit</h2>
 
 [重识Retrofit](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821482&idx=1&sn=abb9fed83d0e780a38a913de67bde937&chksm=80b787f4b7c00ee2a1091ae5baaf726bb5ba6b7a7435690338785e84ac4a925ae494539f5433&mpshare=1&scene=23&srcid=11241cgroektQIQEkjP8tuQV#rd)
