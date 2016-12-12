@@ -4,6 +4,7 @@
 * [Dagger2](#dagger2)
 * [Glide](#Glide)
 * [RecyclerView](#RecyclerView)
+* [CardView](#CardView)
 * [Material Design](#MaterialDesign)
 * [other](#other)
 * [GitHub](#GitHub)
@@ -97,6 +98,10 @@
 [对RecyclerView Item做动画](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820629&idx=1&sn=dafee7298419df6c9161368db7f7198d&scene=23&srcid=0715UkaVTIEaNGAeSJJUivTa#rd)
 
 [SuperRecyclerView，只为打造出更好用的RecyclerView](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236424&idx=1&sn=3f70ba16b7cc4c2301a128eb743598ae&scene=23&srcid=0715aZ5wa4ItOE3ZQSZu00fM#rd)
+
+<h2 id="CardView">CardView</h2>
+
+[关于使用 CardView 开发过程中要注意的细节](http://blog.feng.moe/2015/10/24/something-about-cardview-development/)
 
 <h2 id="MaterialDesign">Material Design</h2>
 
