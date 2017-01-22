@@ -53,6 +53,8 @@
 
 [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
+[RxJava、Retrofit、Okhttp 终极封装](http://blog.csdn.net/column/details/13297.html)
+
 <h2 id="MVP">MVP</h2>
 
 [我们为什么要把Dagger2,MVP以及Rxjava引入项目中?](http://www.jianshu.com/p/91c2bb8e6369)
