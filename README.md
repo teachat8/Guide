@@ -137,6 +137,8 @@
 
 [内存泄漏全解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238704&idx=1&sn=ad334840afdc2d9bdb8215e9f942e54e&chksm=88639f9fbf1416898edfc3615a7ea25f6798e3bb6f3089ca720e18b92ce67328c623561cf35e&mpshare=1&scene=23&srcid=0303ktNKbGP05t1drIYGgBcs#rd)
 
+[Android Studio 你不知道的调试技巧](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652262278&idx=1&sn=deb25d5b1cc6ee21fd3647f9c485c153&chksm=84dc7011b3abf9077b7e0c89f62f0e8bc19e1c4ba9b2821ada605c9dd0d4ec26f489c5cff7bb&mpshare=1&scene=23&srcid=0305J4q7usrYbrI3iT5MGdL8#rd)
+
 <h2 id="GitHub">GitHub</h2>
 
 [Git+GitHub，构建自己的开源仓库之Git踩过的坑](http://www.jianshu.com/p/31c9e0af7aa0?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
