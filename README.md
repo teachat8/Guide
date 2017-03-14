@@ -5,6 +5,7 @@
 * [Glide](#Glide)
 * [RecyclerView](#RecyclerView)
 * [CardView](#CardView)
+* [Support 系列](#support)
 * [Material Design](#MaterialDesign)
 * [other](#other)
 * [GitHub](#GitHub)
@@ -105,6 +106,14 @@
 
 [关于使用 CardView 开发过程中要注意的细节](http://blog.feng.moe/2015/10/24/something-about-cardview-development/)
 
+<h2 id="Support">Support 系列</h2>
+
+[官方链接](https://developer.android.google.cn/topic/libraries/support-library/features.html#design)
+
+[Android进阶系列之Support Annotation Library使用详解](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822312&idx=1&sn=b93cbf8185d9bc696e59d2b8187fb94d&chksm=80b78236b7c00b20cbc226dfcb507e8c4f08350de2e86ecf773b505fdc1bf74837b422c86ad1&mpshare=1&scene=23&srcid=0314xKEXvJGxs8mrfXUxkibr#rd)
+
+[Android Design Support Library使用详解](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238877&idx=1&sn=fe65084035413c0c730c0f34b0781287&chksm=88639ef2bf1417e44203de6887fc1607b2ccf4d00e79ce8775b5c375e846a223ac270f14558e&mpshare=1&scene=23&srcid=0314jKcoBHMcppwYDz1UKgsL#rd)
+
 <h2 id="MaterialDesign">Material Design</h2>
 
 [Material Design中的CoordinatorLayout和Behavior详解](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237142&idx=1&sn=7470950e38945c5afb573e3ce7469bb6&chksm=886399b9bf1410afaf3a688bb3b4e0051ed2cd7aca72b6ca447fd0b0fa5844132364b37a83ba&mpshare=1&scene=23&srcid=1106pl3opF971NuN7EOi2ioY#rd)
@@ -134,12 +143,3 @@
 [动画知识概览](https://zhuanlan.zhihu.com/p/22395869)
 
 [Android一些你需要知道的布局优化技巧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821434&idx=1&sn=dd404347eb5f953f7a5737a31ae864e8&chksm=80b787a4b7c00eb297a81316483f2fe5b90a598ddb0c18840f758a8b35384872a552e3a57758&mpshare=1&scene=23&srcid=1108HHgnwwkwlESQ9NSUm7im#rd)
-
-<h2 id="GitHub">GitHub</h2>
-
-[Git+GitHub，构建自己的开源仓库之Git踩过的坑](http://www.jianshu.com/p/31c9e0af7aa0?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
-
-- 创建你的分支 (git checkout -b my-new-feature)
-- 提交你的改进 (git commit -am 'Add some feature')
-- Push到你的分支 (git push origin my-new-feature)
-- 到github.com 创建 Pull Request
