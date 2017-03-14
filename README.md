@@ -143,3 +143,9 @@
 [动画知识概览](https://zhuanlan.zhihu.com/p/22395869)
 
 [Android一些你需要知道的布局优化技巧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821434&idx=1&sn=dd404347eb5f953f7a5737a31ae864e8&chksm=80b787a4b7c00eb297a81316483f2fe5b90a598ddb0c18840f758a8b35384872a552e3a57758&mpshare=1&scene=23&srcid=1108HHgnwwkwlESQ9NSUm7im#rd)
+
+[Android一些你需要知道的布局优化技巧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821434&idx=1&sn=dd404347eb5f953f7a5737a31ae864e8&chksm=80b787a4b7c00eb297a81316483f2fe5b90a598ddb0c18840f758a8b35384872a552e3a57758&mpshare=1&scene=23&srcid=1108HHgnwwkwlESQ9NSUm7im#rd)
+
+[内存泄漏全解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238704&idx=1&sn=ad334840afdc2d9bdb8215e9f942e54e&chksm=88639f9fbf1416898edfc3615a7ea25f6798e3bb6f3089ca720e18b92ce67328c623561cf35e&mpshare=1&scene=23&srcid=0303ktNKbGP05t1drIYGgBcs#rd)
+
+[Android Studio 你不知道的调试技巧](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652262278&idx=1&sn=deb25d5b1cc6ee21fd3647f9c485c153&chksm=84dc7011b3abf9077b7e0c89f62f0e8bc19e1c4ba9b2821ada605c9dd0d4ec26f489c5cff7bb&mpshare=1&scene=23&srcid=0305J4q7usrYbrI3iT5MGdL8#rd)
