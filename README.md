@@ -5,7 +5,7 @@
 * [Glide](#Glide)
 * [RecyclerView](#RecyclerView)
 * [CardView](#CardView)
-* [Support 系列](#support)
+* [Support 系列](#Support)
 * [Material Design](#MaterialDesign)
 * [other](#other)
 * [GitHub](#GitHub)
