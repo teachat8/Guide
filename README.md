@@ -8,7 +8,7 @@
 * [Support 系列](#Support)
 * [Material Design](#MaterialDesign)
 * [other](#other)
-* [小知识点](#littleKnowleagePoint)
+* [小知识点](#littleKnowledgePoint)
 
 <h2 id="RxJava">RxJava</h2>
 
@@ -151,4 +151,4 @@
 [Android Studio 你不知道的调试技巧](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652262278&idx=1&sn=deb25d5b1cc6ee21fd3647f9c485c153&chksm=84dc7011b3abf9077b7e0c89f62f0e8bc19e1c4ba9b2821ada605c9dd0d4ec26f489c5cff7bb&mpshare=1&scene=23&srcid=0305J4q7usrYbrI3iT5MGdL8#rd)
 
 <h2 id="littleKnowledgePoint">小知识点</h2>
-[闲谈 Android 中资源引用的 @ 和 ? 符号的引用区别](http://mp.weixin.qq.com/s?__biz=MzAwNzc0NjAxMg==&mid=2653391133&idx=1&sn=7fb889fb9226559c25e748fb6774b840&chksm=80aa51aeb7ddd8b810499800853fd5626c71958a57090745abf5bc3103798f4d62b1f495fa98&mpshare=1&scene=23&srcid=0315HpDcRSDtFjBjndVI7D9Q#rd)
+[闲谈 Android 中资源引用的@和?符号的引用区别](http://mp.weixin.qq.com/s?__biz=MzAwNzc0NjAxMg==&mid=2653391133&idx=1&sn=7fb889fb9226559c25e748fb6774b840&chksm=80aa51aeb7ddd8b810499800853fd5626c71958a57090745abf5bc3103798f4d62b1f495fa98&mpshare=1&scene=23&srcid=0315HpDcRSDtFjBjndVI7D9Q#rd)
